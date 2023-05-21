@@ -24,6 +24,8 @@ Code conventions are important to programmers for a number of reasons:
 
 
  Indentation : Girinti
+ 
+ Compound Statements : Bileşik İfadeler
 
 
 
