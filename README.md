@@ -12,6 +12,11 @@ Code conventions are important to programmers for a number of reasons:
 - If you ship your source code as a product, you need to make sure it is as well packaged and clean as any other product you create.
 
 
+#### A block comment should be preceded by a blank line to set it apart from the rest of the code. (https://www.oracle.com/java/technologies/javase/codeconventions-comments.html)
+
+
+
+
 
 
  Indentation : Girinti
