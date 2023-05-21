@@ -14,6 +14,10 @@ Code conventions are important to programmers for a number of reasons:
 
 #### A block comment should be preceded by a blank line to set it apart from the rest of the code. (https://www.oracle.com/java/technologies/javase/codeconventions-comments.html)
 
+#### Avoid local declarations that hide declarations at higher levels. For example, do not declare the same variable name in an inner block:
+
+
+
 
 
 
@@ -28,4 +32,4 @@ Links :
 
 - https://www.oracle.com/java/technologies/javase/codeconventions-introduction.html
 
-https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html
+- https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html
