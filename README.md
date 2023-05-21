@@ -1,6 +1,6 @@
 # Code-Conventions-for-the-Java
 
-1.1 Why Have Code Conventions
+Why Have Code Conventions
 Code conventions are important to programmers for a number of reasons:
 
 - 80% of the lifetime cost of a piece of software goes to maintenance.
@@ -14,7 +14,7 @@ Code conventions are important to programmers for a number of reasons:
 
 
 
-
+ Indentation : Girinti
 
 
 
